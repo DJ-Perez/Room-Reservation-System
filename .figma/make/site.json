@@ -1,0 +1,10 @@
+{
+  "description": "A polished mock UI frontend that demonstrates an interactive web experience and helps users explore its layout and functionality.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
